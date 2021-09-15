@@ -1,0 +1,17 @@
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\Task1.exe.config
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\Task1.exe
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\Task1.pdb
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.MainForm.resources
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.exe
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.pdb
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.HistogramForm.resources
+e:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.DynamicForm.resources
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\EntityFramework.dll
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\EntityFramework.xml
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учеба\4.1\БМИЛ\Task1\Task1\Task1\obj\Debug\Task1.Edit.resources
